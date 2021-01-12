@@ -19,6 +19,8 @@ public class ApiController {
 	@Autowired
 	private AdService adService;
 
+	@Autowired
+	private AdService adServiceTeam2;
 	@Resource
 	private BusinessService businessService;
 
