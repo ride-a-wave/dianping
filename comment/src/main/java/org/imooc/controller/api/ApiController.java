@@ -18,7 +18,7 @@ public class ApiController {
 
 	@Autowired
 	private AdService adService;
-
+// test fetch
 	@Resource
 	private BusinessService businessService;
 
